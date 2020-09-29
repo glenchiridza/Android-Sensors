@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WalkMate</string>
+    <string name="z_value">Z Value!</string>
+    <string name="y_value">Y_Value</string>
+    <string name="x_value">X_Value</string>
+    <string name="this_app_is_powered_by_glenconnect_n_another_good_day_hi">This App is powered by GlenConnect:\n Another Good day, Hi !</string>
+    <string name="btnSpeak">Speak</string>
+</resources>
